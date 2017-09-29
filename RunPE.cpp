@@ -1,9 +1,11 @@
 
 #include <iostream> // Standard C++ library for console I/O
 #include <string> // Standard C++ Library for string manip
+#include <fstream>
 
 #include <Windows.h> // WinAPI Header
 #include <TlHelp32.h> //WinAPI Process API
+
 
 
 // use this if you want to read the executable from disk
